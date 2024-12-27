@@ -23,7 +23,7 @@ A modern web application that helps developers analyze HTML code for semantic st
 
 ```bash
 # Clone the repository
-git clone [your-repo-url]
+git clone [https://github.com/Srishti39/html_trial]
 
 # Install dependencies
 npm install
